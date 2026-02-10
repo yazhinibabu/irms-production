@@ -1,0 +1,11 @@
+[theme]
+primaryColor = "#FF4D8D"        # vibrant but clean pink
+backgroundColor = "#0B0F1A"    # true midnight blue
+secondaryBackgroundColor = "#161B2E"
+textColor = "#FAFAFA"
+font = "sans serif"
+
+[server]
+headless = true
+port = 8501
+enableXsrfProtection = false
